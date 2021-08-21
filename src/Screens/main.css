@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 10px;
+}
+
+.name {
+  padding: 10px;
+  background-color: rgba(209, 209, 211, 0.349);
+  text-align: center;
+  box-shadow: 12px 12px 2px 1px white;
+}
